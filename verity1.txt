@@ -1,9 +1,7 @@
-
-ca;; ,a
-
-
-asd
-
-
-as
-lord lord verity master of humanity
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
